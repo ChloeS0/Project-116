@@ -1,0 +1,15 @@
+
+canvas {
+  margin-top:60px;
+  border-style:solid;
+  border-color:purple;
+}
+
+h4{
+  font-size:30px !important;
+}
+
+.btn-success:hover
+{
+  background-color:purple;
+}
